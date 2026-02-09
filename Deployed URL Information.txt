@@ -1,0 +1,9 @@
+Resource Group link:
+https://portal.azure.com/#@asofttek.com/resource/subscriptions/748f81fb-dc4b-4321-a6ba-2a95c66e8ae1/resourceGroups/rg-demo-preventivemaintenance/overview
+
+Deployed App Link:
+https://pdmai.blackdune-c6beda10.southindia.azurecontainerapps.io/
+
+GitHub repo link:
+https://github.com/Asoft-Consulting-LLC/PredictiveMaintanenceDashboard
+
